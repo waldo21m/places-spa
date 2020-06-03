@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/places-spa/precache-manifest.1a1a6bdec204c7ef52f8d93804c65fb8.js"
+  "/places-spa/precache-manifest.cecd291ae5630c5b0279e2436106d474.js"
 );
 
 workbox.clientsClaim();
