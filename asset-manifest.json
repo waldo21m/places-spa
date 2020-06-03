@@ -1,13 +1,13 @@
 {
   "main.css": "/places-spa/static/css/main.ebde58c2.chunk.css",
-  "main.js": "/places-spa/static/js/main.1ef7748c.chunk.js",
-  "main.js.map": "/places-spa/static/js/main.1ef7748c.chunk.js.map",
+  "main.js": "/places-spa/static/js/main.172bfae2.chunk.js",
+  "main.js.map": "/places-spa/static/js/main.172bfae2.chunk.js.map",
   "runtime~main.js": "/places-spa/static/js/runtime~main.15ccc6aa.js",
   "runtime~main.js.map": "/places-spa/static/js/runtime~main.15ccc6aa.js.map",
   "static/js/2.1af7c4dc.chunk.js": "/places-spa/static/js/2.1af7c4dc.chunk.js",
   "static/js/2.1af7c4dc.chunk.js.map": "/places-spa/static/js/2.1af7c4dc.chunk.js.map",
   "index.html": "/places-spa/index.html",
-  "precache-manifest.9c820be08ce9e64f7d4dd903eba3b565.js": "/places-spa/precache-manifest.9c820be08ce9e64f7d4dd903eba3b565.js",
+  "precache-manifest.eb5e3fb975dce8c21343aa67bfda02a7.js": "/places-spa/precache-manifest.eb5e3fb975dce8c21343aa67bfda02a7.js",
   "service-worker.js": "/places-spa/service-worker.js",
   "static/css/main.ebde58c2.chunk.css.map": "/places-spa/static/css/main.ebde58c2.chunk.css.map"
 }
