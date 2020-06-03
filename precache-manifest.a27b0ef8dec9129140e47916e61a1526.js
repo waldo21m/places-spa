@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "48850767be5d28ccc50f",
+    "revision": "5cb68a7bd6bf50274441",
     "url": "/places-spa/static/css/main.ebde58c2.chunk.css"
   },
   {
-    "revision": "48850767be5d28ccc50f",
-    "url": "/places-spa/static/js/main.bc12633e.chunk.js"
+    "revision": "5cb68a7bd6bf50274441",
+    "url": "/places-spa/static/js/main.023c1112.chunk.js"
   },
   {
     "revision": "c04567e052b44e64cf07",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/places-spa/static/js/2.7662f00c.chunk.js"
   },
   {
-    "revision": "1cb910729a6206d89d995fc3ca9a4418",
+    "revision": "e067ce641a81b9803c44422ba52e86d8",
     "url": "/places-spa/index.html"
   }
 ];
